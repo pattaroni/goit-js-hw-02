@@ -1,7 +1,7 @@
 "use strict";
 
 function getShippingCost(country) {
-  const costChina = 150;
+  const costChina = 100;
   const costChile = 250;
   const costAustralia = 170;
   const costJamaica = 120;
